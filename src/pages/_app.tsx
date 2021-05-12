@@ -7,9 +7,9 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>DipSweet</title>
-        <link rel="shortcut icon" href="/img/dipsweet.svg" />
-        <link rel="apple-touch-icon" href="/img/dipsweet.svg" />
+        <title>Title</title>
+        <link rel="shortcut icon" href="/img/" />
+        <link rel="apple-touch-icon" href="/img/" />
         <link rel="manifest" href="/manifest.json" />
         <link
           rel="stylesheet"
