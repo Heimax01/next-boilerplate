@@ -34,5 +34,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ```bash 
-npx create-next-app roman2decimal --example "https://github.com/Heimax01/next-boilerplate
+npx create-next-app project --example "https://github.com/Heimax01/next-boilerplate
 ```
